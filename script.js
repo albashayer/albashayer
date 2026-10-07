@@ -3,7 +3,7 @@
 // الصيغة: YYYY-MM-DDTHH:MM:SS+03:00
 // مثال: "2026-12-01T00:00:00+03:00"
 // ======================================================
-const LAUNCH_DATE = "2026-12-01T00:00:00+03:00";
+const LAUNCH_DATE = "2027-01-01T00:00:00+03:00";
 
 const daysEl = document.getElementById("days");
 const hoursEl = document.getElementById("hours");
